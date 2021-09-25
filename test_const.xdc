@@ -1,0 +1,15 @@
+set_property IOSTANDARD LVCMOS33 [get_ports uart_rtl_0_rxd]
+set_property PACKAGE_PIN N13 [get_ports uart_rtl_0_rxd]
+set_property IOSTANDARD LVCMOS33 [get_ports uart_rtl_0_txd]
+set_property PACKAGE_PIN P16 [get_ports uart_rtl_0_txd]
+set_property IOSTANDARD LVCMOS33 [get_ports reset_rtl_0]
+set_property PACKAGE_PIN N14 [get_ports reset_rtl_0]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_0[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_0[0]}]
+set_property PACKAGE_PIN A19 [get_ports {LED_0[1]}]
+set_property PACKAGE_PIN B18 [get_ports {LED_0[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports clk_100MHz]
+set_property PACKAGE_PIN D19 [get_ports clk_100MHz]
+
+create_clock -period 100.000 -name clk_timing -waveform {0.000 50.000} -add [get_ports clk_100MHz]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets {mbalze_bd_i/clk_wiz/inst/clk_in1_mbalze_bd_clk_wiz_0}];
