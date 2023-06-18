@@ -1,4 +1,4 @@
-#Sun Jun 18 13:06:21 TRT 2023
+#Sun Jun 18 20:39:47 TRT 2023
 \!/=
 /instance/org.eclipse.cdt.ui/asm_directive=221,40,103
 /instance/org.eclipse.cdt.ui/asm_label=217,232,247
@@ -64,15 +64,21 @@
 /instance/org.eclipse.cdt.ui/pp_header=23,198,163
 /instance/org.eclipse.cdt.ui/semanticHighlighting.class.bold=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.class.color=18,144,195
+/instance/org.eclipse.cdt.ui/semanticHighlighting.class.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.color=204,129,186
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enum.italic=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=141,218,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.color=150,236,63
+/instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.field.color=102,225,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.field.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.color=167,236,33
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.bold=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.color=13,209,64
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.color=255,191,38
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.color=237,127,72
@@ -82,17 +88,22 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.method.color=167,236,33
 /instance/org.eclipse.cdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.bold=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.color=13,209,64
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.color=128,242,246
 /instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.color=121,171,255
 /instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.color=141,218,248
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.color=150,236,63
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typeParameter.color=191,164,164
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.bold=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.color=18,144,195
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.enabled=true
 /instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=53,53,53
 /instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=18
